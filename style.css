@@ -212,7 +212,6 @@ header .navbar {
     width: 400px;
     height: 400px;
     object-fit: cover;
-    /* border-radius: var(--border-radius-circle); */
     border-radius: 10%;
 }
 
